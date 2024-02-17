@@ -3,34 +3,28 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Table of Contents
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## Eleusinia
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Eleusinia is a cultural project that began with a research paper I originally wrote in 2012 entitled, "The Ecstasy of Graeco-Roman Mystery Religions". It was presented as a poster paper at the 3rd annual Conference on Medicine & Religion at the University of Chicago in 2014. This site will serve as a central resource for my current book project entitled, "Profaning the Mysteries - Βεβηλώνοντας Ελευσίνια".
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/eleusisBookBanner.jpg" class="sm:w-1/2 mx-auto" alt="Profaning the Mysteries Banner Photo">
 </div>
 
 ## Tech Stack
 
+AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I am also migrating [my personal blog](https://california.vision/blog) to Astro and plan to stop using Wordpress by April 2024.
+
 This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
 
-## Features
+## Roadmap
 
-Here are certain features of this site.
+Project Roadmap Coming Soon
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+## Open Source 
 
 If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+
+This is a California Vision project! Please send feedback via my [email](mailto:david@california.vision).
