@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://eleusisbook.com/", // replace this with your deployed domain
   author: "David Anderson",
-  desc: "Graeco-Roman Mystic Cults of Antiquity | Early Christianity | Psychedelic Chemistry | Contemporary Mental Health",
+  desc: "History and Philosophy | Religious Ethics | Graeco-Roman Mystic Cults of Antiquity | Early Christianity | Psychedelic Chemistry | Contemporary Mental Health",
   title: "EleusisBook",
   ogImage: "eleusisBookBanner.jpg",
   lightAndDarkMode: true,
